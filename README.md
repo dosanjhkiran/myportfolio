@@ -10,6 +10,9 @@ To deploy this project run
 
 https://dosanjhkiran.github.io/myportfolio/
 
+### Screenshot
+filepath: (advanced-css/screenshot)
+
 ## Features
 . full screen mode
 . live previews
@@ -26,6 +29,7 @@ HTML, CSS, github, ...
 
 ## 🔗 Links
 git hub: https://github.com/dosanjhkiran
+
 
 
 ##HTML
